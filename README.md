@@ -1,2 +1,2 @@
 flowers.ngfamily.com
-- digital repository of my bonsai journey
+- digital repository of my lonely bonsai journey
