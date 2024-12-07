@@ -1,0 +1,2 @@
+./REPO/NGFAMILY.COM/flowers.ngfamily.com/console.sh $USER
+./REPO/NGFAMILY.COM/flowers.ngfamily.com/commit.sh $USER flowers.ngfamily.com "message" 
