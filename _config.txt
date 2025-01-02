@@ -1,2 +1,4 @@
 ./REPO/NGFAMILY.COM/flowers.ngfamily.com/console.sh $USER
 ./REPO/NGFAMILY.COM/flowers.ngfamily.com/commit.sh $USER flowers.ngfamily.com "message" 
+
+https://s3.ap-southeast-1.amazonaws.com/flowers.ngfamily.com/juniper1.html
